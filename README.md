@@ -25,7 +25,7 @@ The virtual assistant responds to the name "Bosco" and can currently follow comm
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://https://github.com/dhananjay-deshmukh/Virtual-Assistant.git
 ```
 
 Go to the project directory
